@@ -1,0 +1,24 @@
+[submodule "gnupot"]
+	path = gnupot
+	url = https://aur.archlinux.org/gnupot.git
+[submodule "rserve-sandbox-docker-bin"]
+	path = rserve-sandbox-docker-bin
+	url = https://aur.archlinux.org/rserve-sandbox-docker-bin.git
+[submodule "rserve-sandbox-docker"]
+	path = rserve-sandbox-docker
+	url = https://aur.archlinux.org/rserve-sandbox-docker.git
+[submodule "swish"]
+	path = swish
+	url = https://aur.archlinux.org/swish.git
+[submodule "swish-cplint"]
+	path = swish-cplint
+	url = https://aur.archlinux.org/swish-cplint.git
+[submodule "swish-cplint-bin"]
+	path = swish-cplint-bin
+	url = https://aur.archlinux.org/swish-cplint-bin.git
+[submodule "python-fpyutils"]
+	path = python-fpyutils
+	url = https://aur.archlinux.org/python-fpyutils.git
+[submodule "python-md_toc"]
+	path = python-md_toc
+	url = https://aur.archlinux.org/python-md_toc.git
