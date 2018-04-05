@@ -1,6 +1,6 @@
 # frnmst-aur-packages-mirror
 
-A mirror for https://aur.archlinux.org/ of the packages I have written.
+A mirror for the AUR packages I have written.
 
 ## Repository cloning and package installation
 
