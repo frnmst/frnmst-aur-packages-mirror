@@ -10,6 +10,7 @@ A mirror for the AUR packages I have written.
   - [Table of contents](#table-of-contents)
   - [Repository cloning and package installation](#repository-cloning-and-package-installation)
   - [Updates](#updates)
+    - [Push changes](#push-changes)
   - [LICENSE](#license)
 
 <!--TOC-->
@@ -27,6 +28,12 @@ A mirror for the AUR packages I have written.
 See https://stackoverflow.com/a/5828396
 
     $ git submodule foreach git pull origin master
+
+### Push changes
+
+    $ git add -A
+    $ git commit -m "Updated packages."
+    $ git push
 
 ## LICENSE
 
