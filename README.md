@@ -12,6 +12,7 @@ A mirror for the AUR packages I have written.
   - [Updates](#updates)
     - [Push changes](#push-changes)
   - [LICENSE](#license)
+  - [Trusted source](#trusted-source)
 
 <!--TOC-->
 
@@ -38,3 +39,9 @@ See https://stackoverflow.com/a/5828396
 ## LICENSE
 
 Check the source repositories for each license.
+
+## Trusted source
+
+You can check the authenticity of new releases using my public key.
+
+Instructions, sources and keys can be found at [frnmst.gitlab.io/software](https://frnmst.gitlab.io/software/).
