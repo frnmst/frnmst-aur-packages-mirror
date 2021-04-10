@@ -44,4 +44,4 @@ Check the source repositories for each license.
 
 You can check the authenticity of new releases using my public key.
 
-Instructions, sources and keys can be found at [frnmst.gitlab.io/software](https://frnmst.gitlab.io/software/).
+Instructions, sources and keys can be found at [blog.franco.net.eu.org/software](https://blog.franco.net.eu.org/software/).
